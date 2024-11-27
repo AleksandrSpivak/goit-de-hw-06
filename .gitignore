@@ -1,0 +1,9 @@
+
+.spyproject
+__pycache__
+tmp
+
+clear_topics.py
+create_topics.py
+
+screens.pptx
